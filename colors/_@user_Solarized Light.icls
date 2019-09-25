@@ -4,16 +4,16 @@
     <property name="created">2019-09-20T03:37:07</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.4.0.0</property>
-    <property name="modified">2019-09-20T03:40:16</property>
+    <property name="modified">2019-09-25T10:18:02</property>
     <property name="originalScheme">Solarized Light</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
+  <option name="LINE_SPACING" value="1.2" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
     <option name="EDITOR_FONT_SIZE" value="20" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro for Powerline" />
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="20" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
@@ -26,6 +26,7 @@
     <option name="EDITOR_FONT_SIZE" value="20" />
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baeeba" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />
@@ -53,24 +54,24 @@
     <option name="SELECTED_TEARLINE_COLOR" value="" />
     <option name="SELECTION_BACKGROUND" value="839496" />
     <option name="SELECTION_FOREGROUND" value="fdf6e3" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="2aa198be" />
-    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="2aa198be" />
-    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="2aa1985a" />
-    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="2aa198be" />
-    <option name="ScrollBar.Mac.Transparent.thumbColor" value="2aa198be" />
-    <option name="ScrollBar.Mac.Transparent.trackColor" value="2aa1985a" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="2aa198" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="2aa198" />
+    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="2aa198" />
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="2aa198" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="2aa198" />
+    <option name="ScrollBar.Mac.Transparent.trackColor" value="2aa198" />
     <option name="ScrollBar.Mac.hoverThumbBorderColor" value="2aa198" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="2aa198" />
     <option name="ScrollBar.Mac.hoverTrackColor" value="eee8d5" />
     <option name="ScrollBar.Mac.thumbBorderColor" value="2aa198" />
     <option name="ScrollBar.Mac.thumbColor" value="2aa198" />
     <option name="ScrollBar.Mac.trackColor" value="eee8d5" />
-    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="2aa198be" />
-    <option name="ScrollBar.Transparent.hoverThumbColor" value="2aa198be" />
-    <option name="ScrollBar.Transparent.hoverTrackColor" value="2aa1985a" />
-    <option name="ScrollBar.Transparent.thumbBorderColor" value="2aa198be" />
-    <option name="ScrollBar.Transparent.thumbColor" value="2aa198be" />
-    <option name="ScrollBar.Transparent.trackColor" value="2aa1985a" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="2aa198" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="2aa198" />
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="2aa198" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="2aa198" />
+    <option name="ScrollBar.Transparent.thumbColor" value="2aa198" />
+    <option name="ScrollBar.Transparent.trackColor" value="2aa198" />
     <option name="ScrollBar.background" value="eee8d5" />
     <option name="ScrollBar.hoverThumbBorderColor" value="2aa198" />
     <option name="ScrollBar.hoverThumbColor" value="2aa198" />
